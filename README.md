@@ -35,8 +35,8 @@ Given a grayscale image composed of two regions with different textures, train a
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ykuzaa/image-segmentation-cnn-optim.git
-cd image-segmentation-cnn-optim
+git clone https://github.com/Ykuzaa/Image-Segmentation-by-Neural-Networks.git
+cd Image-Segmentation-by-Neural-Networks
 
 # Create virtual environment
 python -m venv venv

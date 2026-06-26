@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Project logo" width="180">
+</p>
+
 # Image Segmentation with CNN and Stochastic Optimization
 
 Comparative study of stochastic optimization algorithms for image segmentation using Convolutional Neural Networks in PyTorch.
